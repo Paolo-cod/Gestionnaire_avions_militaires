@@ -1,0 +1,10 @@
+release/addairplanedialog.o
+release/airplane.o
+release/application.o
+release/countryuser.o
+release/main.o
+release/mainwindow.o
+release/setofairplanes.o
+release/qrc_src.o
+release/moc_addairplanedialog.o
+release/moc_mainwindow.o

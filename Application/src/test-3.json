@@ -1,0 +1,91 @@
+[
+    {
+        "category": "Transport",
+        "commissioning_date": "1999-01-02",
+        "constructor": "Lockheed",
+        "countriesUsers": [
+            {
+                "name": "USA",
+                "number": 0,
+                "startDate": "2025-06-12"
+            }
+        ],
+        "crew_members": 3,
+        "engineCount": 4,
+        "engineType": "turbopropulseurs",
+        "image_filename": "K:/myhome_etud/S2/S2.01/src/C-130J_135th_AS_Maryland_ANG_in_flight.jpg",
+        "long_description": "Le Lockheed C-130J Super Hercules est une version dérivée du C-130 Hercules développée à la fin des années 1990. \n« Le premier Hercules pour la Royal Air Force a été livré le 24 août 1998, soit avec quelque deux ans de retard », et « le premier C-130J opérationnel a été livré à Lyneham (RAF) le 23 novembre 1999 », soit avec 3 ans de retard.\n\nLe 200e est livré en juillet 2010, le 400e le 12 février 2018. En octobre 2019, ils ont effectué deux millions d'heures de vol\n\nEn 1er juin 2020, plus de 460. La livraison du 500e est annoncé le 15 mars 2022.\n\nEn août 2024, alors que près de 550 exemplaires sont construits, ils ont effectué trois millions d'heures de vol. ",
+        "max_speed": 643,
+        "name": "KC-130J",
+        "nickname": "KC-130J",
+        "operational_ceiling": 8000
+    },
+    {
+        "category": "Transport",
+        "commissioning_date": "2013-01-05",
+        "constructor": "Airbus Defence and Space",
+        "countriesUsers": [
+            {
+                "name": "France",
+                "number": 50,
+                "startDate": "2013-06-13"
+            },
+            {
+                "name": "United Kingdom",
+                "number": 10,
+                "startDate": "2015-06-11"
+            },
+            {
+                "name": "United Kingdom",
+                "number": 0,
+                "startDate": "2025-06-12"
+            }
+        ],
+        "crew_members": 4,
+        "engineCount": 4,
+        "engineType": "turbopropulseurs",
+        "image_filename": "K:/myhome_etud/S2/S2.01/src/Airbus A400M Atlas.jpg",
+        "long_description": "L'Airbus A400M Atlas[10],[Note 1] est un avion de transport militaire polyvalent conçu par Airbus Defence and Space, entré en service en 2013[11]. Au 30 novembre 2022, il totalise 178 commandes dont 115 livrées[12].\n\nLe projet sélectionné en 2000 à l'issue d'un appel d'offres a connu de nombreux retards et surcoûts. Assemblé à Séville, il sort d'usine en juin 2008 mais ne sera finalement certifié pour un usage militaire qu'en août 2013.\n\nDestiné à des missions de transport stratégiques et tactiques, l'A400M est capable de transporter jusqu'à 37 tonnes de fret sur 4 500 km. Ses commandes de vol électriques lui permettent d'être aussi maniable qu'un biréacteur de type Dassault Falcon 10, bien plus léger. Son cahier des charges le rapproche de l'Antonov An-70 ukrainien. ",
+        "max_speed": 882,
+        "name": "A400M Atlas",
+        "nickname": "A400M Atlas",
+        "operational_ceiling": 12000
+    },
+    {
+        "category": "Chasseur",
+        "commissioning_date": "1983-01-01",
+        "constructor": "Mikoyan-Gourevitch",
+        "countriesUsers": [
+        ],
+        "crew_members": 2,
+        "engineCount": 2,
+        "engineType": "turboreacteur",
+        "image_filename": "K:/myhome_etud/S2/S2.01/src/Mikoyan MiG-29.jpg",
+        "long_description": "Le Mikoyan-Gourevitch MiG-29 (Code OTAN Fulcrum) est un avion de chasse de suprématie aérienne soviétique développé au début des années 1970, et dont le premier vol eut lieu le 6 octobre 1977. Il est entré en service dans l'armée soviétique en 1983, mais n'est plus commandé aujourd'hui par l'armée de l'air russe (il devait être théoriquement remplacé à partir de fin 2018 par une version modernisée, le MiG-35 Fulcrum-E). Il est toutefois encore utilisé et commandé par de nombreux autres pays. Plus de 1 100 exemplaires ont jusqu'à présent été construits. Il est le 5e avion de combat le plus utilisé dans le monde en 2020 avec, selon une estimation, 817 appareils en activité, soit 6 % de la flotte mondiale d'avions de combat. ",
+        "max_speed": 0,
+        "name": "MiG-29",
+        "nickname": "",
+        "operational_ceiling": 0
+    },
+    {
+        "category": "Observation",
+        "commissioning_date": "",
+        "constructor": "Dornier",
+        "countriesUsers": [
+            {
+                "name": "Germany",
+                "number": 25,
+                "startDate": "1945-06-14"
+            }
+        ],
+        "crew_members": 0,
+        "engineCount": 0,
+        "engineType": "",
+        "image_filename": "",
+        "long_description": "Jolie avion",
+        "max_speed": 0,
+        "name": "Pfier",
+        "nickname": "",
+        "operational_ceiling": 0
+    }
+]

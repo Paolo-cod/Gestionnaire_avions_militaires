@@ -1,0 +1,148 @@
+[
+    {
+        "category": "Chasseur",
+        "commissioning_date": "2025-12-04",
+        "constructor": "Rafale",
+        "countriesUsers": [
+            {
+                "name": "France",
+                "number": 50,
+                "startDate": "2025-06-12"
+            },
+            {
+                "name": "Germany",
+                "number": 30,
+                "startDate": "2003-06-13"
+            }
+        ],
+        "crew_members": 1,
+        "engineCount": 2,
+        "engineType": "turboreacteur",
+        "image_filename": "./Rafale_-_RIAT_2009_(3751416421).jpg",
+        "long_description": "Le Rafale de Dassault Aviation est un avion développé pour la Marine nationale et l'Armée de l'air françaises, livré à partir du 18 mai 2001 et entré en service en 2002 dans la Marine. Il équipe également les forces aériennes égyptiennes, qataris, indiennes, grecques et croates et a été commandé par les Émirats arabes unis, l'Indonésie et la Serbie. Fin 2024 Dassault Aviation totalise 507 commandes de Rafale depuis le début du programme dont 273 à l'export et 234 pour l'armée française.\n\nLe constructeur Renault est propriétaire du nom Rafale depuis le Caudron C.460, et il a autorisé Dassault à l'utiliser pour baptiser son avion de combat.\n\nÀ la fin des années 1970, les forces armées françaises expriment le besoin d'un nouvel avion de combat polyvalent qu'il est envisagé de développer avec l'Allemagne de l'Ouest, le Royaume-Uni, l'Espagne et l'Italie, mais les divergences de besoins, notamment la capacité d'opérer depuis un porte-avions, amènent la France à se désolidariser de ses partenaires en 1985. Le démonstrateur Rafale A vole le 4 juillet 1986 et le programme est lancé le 26 janvier 1988 : le monoplace Rafale C vole le 19 mai 1991, la version marine M, le 12 décembre de la même année, et le biplace B, le 30 avril 1993. Le coût total du programme est de 46,4 milliards d'euros.\n\nL'avion est à aile delta et plans-canards, à commandes de vol électriques et utilise des éléments de furtivité passifs et actifs; il est équipé d'un radar à balayage électronique RBE2 et de deux moteurs Snecma M88. Pour la supériorité aérienne, il utilise des missiles air-air et un canon. En bombardement tactique, il utilise des bombes guidées laser, des missiles de croisière, des missiles antinavires et, en bombardement stratégique, un missile nucléaire ASMP-A.",
+        "max_speed": 1,
+        "name": "Dassault Aviation",
+        "nickname": "Rafale",
+        "operational_ceiling": 15
+    },
+    {
+        "category": "Chasseur",
+        "commissioning_date": "2025-12-05",
+        "constructor": "Dassault Aviation",
+        "countriesUsers": [
+            {
+                "name": "France",
+                "number": 50,
+                "startDate": "1984-06-15"
+            },
+            {
+                "name": "USA",
+                "number": 0,
+                "startDate": "2025-06-12"
+            },
+            {
+                "name": "Germany",
+                "number": 30,
+                "startDate": "1990-06-07"
+            }
+        ],
+        "crew_members": 2,
+        "engineCount": 1,
+        "engineType": "turboreacteur",
+        "image_filename": "K:/myhome_etud/S2.01/groupe02/Application/src/Airbus A400M Atlas.jpg",
+        "long_description": "Le Mirage 2000 est un avion de chasse conçu par la société française Dassault Aviation, à la fin des années 1970. Bien que la formule à ailes delta fasse penser au Mirage III des années 1960 et que le Mirage 2000 soit de taille comparable, il s'agit en fait d'un avion entièrement nouveau, avec une surface alaire plus importante, naturellement instable pour améliorer sa manœuvrabilité et équipé de commandes de vol électriques. Mis en service en 1984, le Mirage 2000 est principalement utilisé par l'Armée de l'air française qui en a reçu 315 exemplaires, tandis que 286 autres ont été exportés vers huit pays différents. ",
+        "max_speed": 2340,
+        "name": "Mirage 2000",
+        "nickname": "Mirage 2000",
+        "operational_ceiling": 18
+    },
+    {
+        "category": "Observation",
+        "commissioning_date": "2025-12-06",
+        "constructor": "Boeing Integrated Defense Systems\nWestinghouse Electric",
+        "countriesUsers": [
+            {
+                "name": "France",
+                "number": 25,
+                "startDate": "1977-06-15"
+            },
+            {
+                "name": "Germany",
+                "number": 40,
+                "startDate": "1977-06-17"
+            },
+            {
+                "name": "USA",
+                "number": 0,
+                "startDate": "2025-06-12"
+            }
+        ],
+        "crew_members": 19,
+        "engineCount": 4,
+        "engineType": "turboreacteur",
+        "image_filename": "K:/myhome_etud/S2.01/groupe02/Application/src/German_Air_Force_Airbus_A400M_(out_cropped).jpg",
+        "long_description": "Le Boeing E-3 Sentry (« sentinelle »), communément dénommé AWACS (Airborne Warning & Control System), est un avion de détection et de commandement développé par Boeing en tant que maître d'œuvre. Dérivé du Boeing 707, il fournit une surveillance, un commandement, un contrôle et des communications tout-temps ; il est utilisé par l'United States Air Force (USAF), l'OTAN, la Royal Air Force (RAF), l'Armée de l'air française et la Force aérienne royale saoudienne. Le E-3 est reconnaissable à son dôme radar rotatif distinctif au-dessus du fuselage. La production s'achève en 1992 après la construction de 68 appareils.",
+        "max_speed": 855,
+        "name": "E-3 Sentry",
+        "nickname": "E-3 Sentry",
+        "operational_ceiling": 12
+    },
+    {
+        "category": "Transport",
+        "commissioning_date": "2025-12-07",
+        "constructor": "Airbus Defence and Space",
+        "countriesUsers": [
+            {
+                "name": "USA",
+                "number": 10,
+                "startDate": "2011-06-17"
+            }
+        ],
+        "crew_members": 4,
+        "engineCount": 2,
+        "engineType": "turboreacteur",
+        "image_filename": "K:/myhome_etud/S2.01/groupe02/Application/src/Airbus A400M Atlas.jpg",
+        "long_description": "L'Airbus A330 Multi Role Tanker Transport (MRTT) est un modèle d'avion militaire de transport et de ravitaillement à large fuselage développé et construit par Airbus Defence and Space, et dérivé du modèle civil Airbus A330.\n\nMis en service en 2011, les A330 MRTT accumulaient en 2024 plus de 300 000 heures de vol(octobre 2015 plus de 56 400 heures de vol avec 14 220 atterrissages). En 2016, malgré l'augmentation de charges inattendue en raison du conflit au Moyen-Orient, 2 000 heures environ par mois, l'appareil était capable d'assurer 96 % de disponibilité d'après Airbus. De surcroît, selon le premier client, la RAAF, ses exemplaires ne subirent pas de problèmes de jeunesse, c'est pourquoi l'Australie décida de commander deux appareils supplémentaires.\n\nDe nos jours, il s'agit d'un appareil de ravitaillement en production, qui a atteint la maturité. En effet, tous ses systèmes sont pleinement fonctionnels. À la suite de la retraite du dernier exemplaire de McDonnell Douglas KC-10 Extender, tenue le 26 septembre 2024, l'A330 MRTT est également le plus grand avion ravitailleur exploité par les armées. ",
+        "max_speed": 860,
+        "name": "A330 MRTT",
+        "nickname": "A330 MRTT",
+        "operational_ceiling": 12
+    },
+    {
+        "category": "Entrainement",
+        "commissioning_date": "2025-12-08",
+        "constructor": "Lockheed",
+        "countriesUsers": [
+            {
+                "name": "USA",
+                "number": 20,
+                "startDate": "2001-06-08"
+            }
+        ],
+        "crew_members": 3,
+        "engineCount": 4,
+        "engineType": "turbopropulseurs",
+        "image_filename": "K:/myhome_etud/S2.01/groupe02/Application/src/DF-ST-89-09964.jpg",
+        "long_description": "",
+        "max_speed": 860,
+        "name": "KC-130J",
+        "nickname": "KC-130J",
+        "operational_ceiling": 8000
+    },
+    {
+        "category": "Entrainement",
+        "commissioning_date": "",
+        "constructor": "Dassault",
+        "countriesUsers": [
+        ],
+        "crew_members": 0,
+        "engineCount": 0,
+        "engineType": "",
+        "image_filename": "K:/myhome_etud/S2.01/groupe02/Application/src/Airbus A330 MRTT.jpg",
+        "long_description": "Dassault Avion 3",
+        "max_speed": 0,
+        "name": "Avion 3",
+        "nickname": "",
+        "operational_ceiling": 0
+    }
+]

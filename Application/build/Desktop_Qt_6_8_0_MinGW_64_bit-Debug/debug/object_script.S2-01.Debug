@@ -1,0 +1,10 @@
+debug/addairplanedialog.o
+debug/airplane.o
+debug/application.o
+debug/countryuser.o
+debug/main.o
+debug/mainwindow.o
+debug/setofairplanes.o
+debug/qrc_src.o
+debug/moc_addairplanedialog.o
+debug/moc_mainwindow.o

@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Application/src/330px-Mirage_2000C_in-flight_2_(cropped).jpg</file>
+        <file>Application/src/Airbus A330 MRTT.jpg</file>
+        <file>Application/src/Airbus A400M Atlas.jpg</file>
+        <file>Application/src/C-130J_135th_AS_Maryland_ANG_in_flight.jpg</file>
+        <file>Application/src/DF-ST-89-09964.jpg</file>
+        <file>Application/src/E-3_Sentry_Airborne_Warning_and_Control_System_(AWACS)_conducts_a_mission.jpg</file>
+        <file>Application/src/F-35A_flight_(cropped).jpg</file>
+        <file>Application/src/German_Air_Force_Airbus_A400M_(out_cropped).jpg</file>
+        <file>Application/src/Mikoyan MiG-29.jpg</file>
+        <file>Application/src/Rafale_-_RIAT_2009_(3751416421).jpg</file>
+        <file>Application/src/S2_01_fr_FR.qm</file>
+        <file>Application/src/Sukhoi_Su-30SM_in_flight_2014.jpg</file>
+        <file>Application/src/test.json</file>
+        <file>Application/src/test-3.json</file>
+        <file>Application/src/test-4.xml</file>
+        <file>Application/src/testXML.xml</file>
+    </qresource>
+</RCC>
